@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: MyMail
+Version: 0.0.2
+Summary: A small example package By Rahul Pandey
+Home-page: https://github.com/rahulpandey81/MyMail
+Author: Rahul Pandey
+Author-email: rahulpandey.rp1996@gmail.com
+License: UNKNOWN
+Description: This Package is Use to Send a Mail Using SMTP.
+        IMPORTENT Note- Please Check that Your Mail is less Security Option enabled.
+        https://myaccount.google.com/lesssecureapps check from here. if not enable please enable it.
+        Tutorial- install this package using pip
+        and import it using-----.
+        from MyMail import mail  
+        Example Code- mail.send(FromMail, FromMailPassword, ToMail, Subject, Message).
+        https://github.com/rahulpandey81/MyMail
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

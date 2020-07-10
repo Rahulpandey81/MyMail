@@ -1,0 +1,7 @@
+setup.py
+MyMail/__init__.py
+MyMail/mail.py
+MyMail.egg-info/PKG-INFO
+MyMail.egg-info/SOURCES.txt
+MyMail.egg-info/dependency_links.txt
+MyMail.egg-info/top_level.txt
