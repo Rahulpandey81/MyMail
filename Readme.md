@@ -6,3 +6,4 @@ and import it using-----.
 from MyMail import mail  
 Example Code- mail.send(FromMail, FromMailPassword, ToMail, Subject, Message).
 https://github.com/rahulpandey81/MyMail
+Hhjjhggg
